@@ -350,7 +350,7 @@ French to Fongbe translation system. Contributing to language preservation throu
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=simock&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=058a8a&fire_color=ff6b6b" width="100%"/>
+<img src="https://github-readme-stats-eqmy.vercel.app/api?username=simock&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=058a8a&fire_color=ff6b6b" width="100%"/>
 </td>
 <td width="50%" align="center">
 <img src="https://streak-stats.demolab.com/?user=simock&theme=transparent&hide_border=true&background=0d1117&stroke=058a8a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=058a8a&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
