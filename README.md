@@ -108,8 +108,6 @@ The premise is straightforward: effective defense requires understanding systems
 **Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
@@ -129,7 +127,7 @@ The premise is straightforward: effective defense requires understanding systems
 
 ---
 
-### Cybersecurity
+
 
 ### Cybersecurity
 
@@ -359,8 +357,7 @@ French to Fongbe translation system. Contributing to language preservation throu
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravel226&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&text_color=c9d1d9&langs_count=8" width="45%"/>
-
+<img src="https://streak-stats.demolab.com/?user=Ravel226&theme=transparent&hide_border=true&background=0d1117&stroke=058a8a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=058a8a&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ravel226&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Stars,Followers,Issues,MultiLanguage" width="100%"/>
