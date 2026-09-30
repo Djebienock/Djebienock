@@ -6,11 +6,12 @@
 
 **AI | Cybersecurity | Building the Future of Intelligent Security**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djebienock)
-[![Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](dje:bitrazieenock.dje@eidia.ueuromed.org)
-[![Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white)](dje:enockdjebi@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Ravel226&color=058a8a&style=for-the-badge)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/bi-enock-dje)
+[![TikTok](https://img.shields.io/badge/TikTok-ff6b6b?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d1117)](http://tiktok.com/@simock.mncho)
+[![YouTube](https://img.shields.io/badge/YouTube-058a8a?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@mùcho_simock)
+[![Academic Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](simock:bitrazieenock.dje@eidia.ueuromed.org)
+[![Personal Email](https://img.shields.io/badge/Personal-058a8a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](simock:enockdjebi@gmail.com)
+[![Phone](https://img.shields.io/badge/+212_645469843-ff6b6b?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+212663653180)
 </div>
 
 ---
@@ -425,19 +426,20 @@ Building something interesting? Working on AI or security challenges? Open to co
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/maako-wourougou)
-[![Academic Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:m.wourougou@ueuromed.org)
-[![Personal Email](https://img.shields.io/badge/Personal-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ravellewourougou@gmail.com)
-[![Phone](https://img.shields.io/badge/+212_645469843-058a8a?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+212645469843)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-058a8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/bi-enock-dje)
+[![TikTok](https://img.shields.io/badge/TikTok-ff6b6b?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d1117)](http://tiktok.com/@simock.mncho)
+[![YouTube](https://img.shields.io/badge/YouTube-058a8a?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@mùcho_simock)
+[![Academic Email](https://img.shields.io/badge/Academic-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](simock:bitrazieenock.dje@eidia.ueuromed.org)
+[![Personal Email](https://img.shields.io/badge/Personal-058a8a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](simock:enockdjebi@gmail.com)
+[![Phone](https://img.shields.io/badge/+212_645469843-ff6b6b?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](tel:+212663653180)
 <br>
 
 | Contact | Address |
 |:--------|:--------|
-| Academic | m.wourougou@ueuromed.org |
-| Personal | ravellewourougou@gmail.com |
-| Phone | +212 645 469 843 |
-| LinkedIn | [in/maako-wourougou](https://linkedin.com/in/maako-wourougou) |
+| Academic | bitrazieenock.dje@eidia.ueuromed.org |
+| Personal | enockdjebi@gmail.com |
+| Phone | +212 663 653180 |
+| LinkedIn | [in/bi-enock-dje](https://linkedin.com/in/bi-enock-dje) |
 | Response Time | Typically within 24 hours |
 
 </div>
