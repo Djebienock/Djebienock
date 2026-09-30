@@ -345,8 +345,6 @@ French to Fongbe translation system. Contributing to language preservation throu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simock&bg_color=0d1117&color=058a8a&line=ff6b6b&point=058a8a&area=true&hide_border=true" width="100%"/>
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -360,11 +358,9 @@ French to Fongbe translation system. Contributing to language preservation throu
 
 <img src="https://github-readme-stats-eqmy.vercel.app/api/top-langs/?username=simock&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&text_color=c9d1d9&langs_count=8" width="45%"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=simock&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Stars,Followers,Issues,MultiLanguage" width="100%"/>
-
 </div>
+
+---
 
 
 ---
