@@ -358,12 +358,13 @@ French to Fongbe translation system. Contributing to language preservation throu
 </tr>
 </table>
 
+<img src="https://github-readme-stats-eqmy.vercel.app/api/top-langs/?username=simock&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=058a8a&text_color=c9d1d9&langs_count=8" width="45%"/>
+
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=simock&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Commits,Repositories,PullRequest,Stars,Followers,Issues,MultiLanguage" width="100%"/>
 
 </div>
-
 
 
 ---
